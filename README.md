@@ -30,7 +30,7 @@ Each assignment is worth 20 points. You are HIGHLY encouraged to use [Google Col
 ## License
 
 BSD-3-Clause. 
-Copyright (c) 2025, JHA-Lab.
+Copyright (c) 2026, JHA-Lab.
 All rights reserved.
 
 See License file for more details.
