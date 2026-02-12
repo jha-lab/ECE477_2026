@@ -24,7 +24,8 @@ Useful reference to ML concepts: [ML Glossary from Google](https://developers.go
 
 ## Assignment descriptions
 
-Each assignment is worth 20 points.
+Each assignment is worth 20 points. You are HIGHLY encouraged to use [Google Colab](https://colab.research.google.com/), especially if you are unable to run the code locally. Detailed instructions on using Colab can be found here:  
+  - **[One-minute Tutorial]**(https://drive.google.com/file/d/1ANaoLv6HWze6RLm1Fvsv8qpHpM4GZGQb/view?usp=drive_link)
 
 ## License
 
