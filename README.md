@@ -1,4 +1,4 @@
-# ECE477-2025
+# ECE477-2026
 
 ## Welcome to ECE 477 Smart Healthcare class!
 
